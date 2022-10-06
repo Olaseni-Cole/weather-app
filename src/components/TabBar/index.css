@@ -1,0 +1,22 @@
+.tab-container {
+  display: flex;
+  justify-content: space-between;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.55);
+  font-size: 18;
+  font-weight: 500;
+  padding: 0 10vw 20px 10vw;
+}
+
+.selelcted {
+  color: cadetblue;
+}
+
+.link {
+  cursor: pointer;
+  padding: 5px;
+}
+
+.link:hover {
+  color: cadetblue;
+}
